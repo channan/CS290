@@ -15,12 +15,12 @@ tbody td:nth-child(4)
 
 tbody tr:nth-of-type(odd) 
 {
-   background-color: green;
+   background-color: #98fb98;
 }
 
 tbody tr:nth-of-type(even) 
 {
-   background-color: blue;
+   background-color: #add8e6;
 }
 
 .outer-content 
@@ -35,6 +35,6 @@ tbody tr:nth-of-type(even)
 {
   width: 75%;
   text-align: center;
-  background-color: blue;
+  background-color: #add8e6;
   margin: 0 auto;
 }
